@@ -1,5 +1,4 @@
 const stringDuplicator = (str, n) => {
-  // YOUR SOLUTION GOES HERE
   let out = "";
   for (let i = 0; i < n; i++) {
     out += str;
